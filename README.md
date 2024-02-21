@@ -1,2 +1,2 @@
-# Optimizacion Digital de Modelos Tridimensionales
+# Optimización Digital de Modelos Tridimensionales
 Un sitio académico
