@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article{
+    text-align: center;
+    background-color:lavenderblush ;
+    border-radius: 10px;
+}
+
+p{
+    padding: 10px;
+    ;
+}
+
+img{
+    border-radius: 10px;
+    padding: 20px;
+}
